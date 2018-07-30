@@ -1,0 +1,4 @@
+title: ServiceStatusController
+modelClass: Sepehr\Crm\Models\ServiceStatus
+toolbar:
+    buttons: reorder_toolbar

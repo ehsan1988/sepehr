@@ -1,0 +1,10 @@
+name: ServiceStatusController
+form: $/sepehr/crm/models/servicestatus/fields.yaml
+modelClass: Sepehr\Crm\Models\ServiceStatus
+defaultRedirect: sepehr/crm/servicestatuscontroller
+create:
+    redirect: 'sepehr/crm/servicestatuscontroller/update/:id'
+    redirectClose: sepehr/crm/servicestatuscontroller
+update:
+    redirect: sepehr/crm/servicestatuscontroller
+    redirectClose: sepehr/crm/servicestatuscontroller

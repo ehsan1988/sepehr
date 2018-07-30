@@ -1,0 +1,32 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table sepehr_crm_service'
+    - builder_table_create_sepehr_crm_service.php
+1.0.3:
+    - 'Created table sepehr_crm_system_user'
+    - builder_table_create_sepehr_crm_system_user.php
+1.0.4:
+    - 'Created table sepehr_crm_service_status'
+    - builder_table_create_sepehr_crm_service_status.php
+1.0.5:
+    - 'Created table sepehr_crm_forward_status'
+    - builder_table_create_sepehr_crm_forward_status.php
+1.0.6:
+    - 'Created table sepehr_crm_backward_status'
+    - builder_table_create_sepehr_crm_backward_status.php
+1.0.7:
+    - 'Created table sepehr_crm_operation'
+    - builder_table_create_sepehr_crm_operation.php
+1.0.8:
+    - 'Created table sepehr_crm_product'
+    - builder_table_create_sepehr_crm_product.php
+1.0.9:
+    - 'Created table sepehr_crm_customer'
+    - builder_table_create_sepehr_crm_customer.php
+1.0.10:
+    - 'Updated table sepehr_crm_customer'
+    - builder_table_update_sepehr_crm_customer.php
+1.0.11:
+    - 'Updated table sepehr_crm_customer'
+    - builder_table_update_sepehr_crm_customer_2.php

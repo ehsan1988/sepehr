@@ -1,0 +1,23 @@
+fields:
+    title:
+        label: 'عنوان تیکت'
+        span: full
+        type: text
+    body:
+        label: 'متن تیکت'
+        size: ''
+        span: full
+        type: textarea
+    priority_id:
+        label: اولویت
+        span: auto
+        type: dropdown
+    category_id:
+        label: 'دسته بندی'
+        span: auto
+        type: dropdown
+    description:
+        label: توضیحات
+        size: ''
+        span: full
+        type: textarea

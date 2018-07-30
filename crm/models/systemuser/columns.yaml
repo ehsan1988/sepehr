@@ -1,0 +1,21 @@
+columns:
+    operators:
+        label: کارشناسان
+        type: text
+        searchable: true
+        sortable: true
+    manager_id:
+        label: 'نام و نام خانوادگی مدیر'
+        type: number
+        searchable: true
+        sortable: true
+    user_type:
+        label: 'نوع کاربر'
+        type: number
+        searchable: true
+        sortable: true
+    active_status:
+        label: 'وضعیت فعالیت'
+        type: number
+        searchable: true
+        sortable: true

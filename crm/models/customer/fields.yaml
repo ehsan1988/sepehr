@@ -1,0 +1,21 @@
+fields:
+    name:
+        label: 'نام و نام خانوادگی'
+        span: full
+        type: text
+    product:
+        label: 'نام محصول'
+        span: full
+        type: text
+    user_name:
+        label: 'نام کاربری (کد ملی)'
+        span: full
+        type: text
+    password:
+        label: 'کلمه عبور'
+        span: full
+        type: text
+    connection:
+        label: 'راه ارتباطی'
+        span: full
+        type: text

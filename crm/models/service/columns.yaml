@@ -1,0 +1,51 @@
+columns:
+    title:
+        label: عنوان
+        type: text
+        searchable: true
+        sortable: true
+    body:
+        label: 'متن تیکت'
+        type: text
+        searchable: true
+        sortable: true
+    priority_id:
+        label: اولویت
+        type: number
+        searchable: true
+        sortable: true
+    category_id:
+        label: 'دسته دسته بندی'
+        type: number
+        searchable: true
+        sortable: true
+    status_id:
+        label: 'وضعیت تیکت'
+        type: number
+        searchable: true
+        sortable: true
+    customer_id:
+        label: 'نام و نام خانوادگی مشتری'
+        type: number
+        searchable: true
+        sortable: true
+    manager_id:
+        label: 'نام و نام خانوادگی مدیر'
+        type: number
+        searchable: true
+        sortable: true
+    description:
+        label: توضیحات
+        type: text
+        searchable: true
+        sortable: true
+    date_accept:
+        label: 'تاریخ پذیرش تیکتپذیرش '
+        type: text
+        searchable: true
+        sortable: true
+    date_reject:
+        label: 'تاریخ رد تیکت'
+        type: text
+        searchable: true
+        sortable: true

@@ -1,0 +1,10 @@
+columns:
+    id:
+        label: ردیف
+        type: number
+        sortable: true
+    name:
+        label: 'عنوان وضعیت'
+        type: text
+        searchable: true
+        sortable: true

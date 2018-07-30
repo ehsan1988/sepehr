@@ -1,0 +1,10 @@
+name: ForwardStatusController
+form: $/sepehr/crm/models/forwardstatus/fields.yaml
+modelClass: Sepehr\Crm\Models\ForwardStatus
+defaultRedirect: sepehr/crm/forwardstatuscontroller
+create:
+    redirect: 'sepehr/crm/forwardstatuscontroller/update/:id'
+    redirectClose: sepehr/crm/forwardstatuscontroller
+update:
+    redirect: sepehr/crm/forwardstatuscontroller
+    redirectClose: sepehr/crm/forwardstatuscontroller

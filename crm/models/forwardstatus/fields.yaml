@@ -1,0 +1,7 @@
+fields:
+    name:
+        label: 'عنوان وضعیت'
+        span: auto
+        placeholder: 'برای مثال: در انتظار پاسخ'
+        required: 1
+        type: text

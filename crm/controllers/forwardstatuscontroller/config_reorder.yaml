@@ -1,0 +1,4 @@
+title: ForwardStatusController
+modelClass: Sepehr\Crm\Models\ForwardStatus
+toolbar:
+    buttons: reorder_toolbar

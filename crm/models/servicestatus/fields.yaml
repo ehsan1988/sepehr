@@ -1,0 +1,6 @@
+fields:
+    name:
+        label: 'عنوان وضعیت'
+        span: auto
+        placeholder: 'برای مثال: اخذ شده'
+        type: text

@@ -1,0 +1,6 @@
+columns:
+    name:
+        label: 'نام اقدام'
+        type: text
+        searchable: true
+        sortable: true

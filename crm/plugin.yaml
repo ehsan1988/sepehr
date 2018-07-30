@@ -1,0 +1,20 @@
+plugin:
+    name: 'sepehr.crm::lang.plugin.name'
+    description: 'sepehr.crm::lang.plugin.description'
+    author: Sepehr
+    icon: oc-icon-bullhorn
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: وضعیت
+        url: sepehr/crm/forwardstatuscontroller
+        icon: icon-bullseye
+        sideMenu:
+            side-menu-item:
+                label: ارجاعات
+                url: sepehr/crm/servicestatuscontroller
+                icon: icon-arrow-circle-right
+            side-menu-item2:
+                label: 'Menu Item'
+                url: sepehr/crm/forwardstatuscontroller
+                icon: icon-sitemap

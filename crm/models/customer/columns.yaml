@@ -1,0 +1,26 @@
+columns:
+    name:
+        label: 'نام و نام خانوادگی مشتری'
+        type: text
+        searchable: true
+        sortable: true
+    product:
+        label: 'نام محصول'
+        type: text
+        searchable: true
+        sortable: true
+    user_name:
+        label: 'نام کاربری'
+        type: text
+        searchable: true
+        sortable: true
+    password:
+        label: 'کلمه عبور'
+        type: text
+        searchable: true
+        sortable: true
+    connection:
+        label: 'راه ارتباطی'
+        type: text
+        searchable: true
+        sortable: true

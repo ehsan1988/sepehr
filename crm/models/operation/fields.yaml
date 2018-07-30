@@ -1,0 +1,5 @@
+fields:
+    name:
+        label: 'نام اقدام'
+        span: full
+        type: text

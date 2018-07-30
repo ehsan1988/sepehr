@@ -1,0 +1,16 @@
+fields:
+    operators:
+        label: کارشناسان
+        prompt: 'افزودن گزینه جدید'
+        span: full
+        type: repeater
+        form:
+            fields:
+                user_type:
+                    label: 'نوع کاربر'
+                    span: auto
+                    type: dropdown
+                active_status:
+                    label: 'وضعیت فعالیت'
+                    span: auto
+                    type: dropdown
